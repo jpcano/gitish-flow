@@ -1,1 +1,1 @@
-Commit 0 from feature/my-second-feature
+Commit 1 from feature/my-second-feature
