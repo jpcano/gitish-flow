@@ -1,1 +1,1 @@
-Commit 1 from feature/my-second-feature
+Bugfix 0 to prerelease
